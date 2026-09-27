@@ -1,11 +1,11 @@
 {
-  "version": "1.1.2",
-  "notes": "Frozen Land V1.1.2 - New main menu, three independent save slots, improved autosaving and UI improvements.",
-  "pub_date": "2026-09-27T00:00:00Z",
+  "version": "1.1.3",
+  "notes": "Frozen Land V1.1.3 - Discord Rich Presence, achievements, animations, transitions, music, sound design, and various improvements.",
+  "pub_date": "2026-09-27T14:35:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSNU5Oa3R3bmRDZDFPNnlKN3paSFRTK083N0VIN0xRRG1Bcy85OE1uSFcrU1poUGZEbFhHQTVrd1JXWjUzbVVzUXlSNVg1bG53bWE3cFJjMjBMZTRpcmhiQmNwVzY2aVE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNDY0OTQ1CWZpbGU6RnJvemVuIExhbmRfMS4xLjJfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuMS4yCm5MM0w3QnVieHRORmxoUmtqaFIyOU8rbCtRZmNTUkliMzFMRW5Rd1lxRm94TERPeDkrRVU0NkhqcHNGNStVMmZjV3pQamFRMEpYaEVrWFNkZHAzUUFRPT0K",
-      "url": "https://github.com/dylangofflul-arch/FrozenLand-Updates/releases/download/v1.1.2/Frozen.Land_1.1.2_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSNU5Oa3R3bmRDZHpGUTRmK1JOU1ZDTExQTnppdnplR1hKN0JQSzZ3aDRUSEk3VjRTNWxTTHlYNmpab05zOXFVWS9PMk8zNjVCNWY4ZFRoZHNiNkZybnpmMUtZOWZKV0FrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNTE5ODYzCWZpbGU6RnJvemVuIExhbmRfMS4xLjNfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuMS4zCk1Nd2oyNFRTcTR4RVdGRVB5S0FvMVZZSFVwcHp6NllTTDA4ZDNRaHBoNytpWXAwT0g2bHc4RjhmOWtVN1ZBZHp0SVZFRXlBeTVjQ3c0RGJFU3dGeERBPT0K",
+      "url": "https://github.com/dylangofflul-arch/FrozenLand-Updates/releases/download/v1.1.3/Frozen.Land_1.1.3_x64-setup.exe"
     }
   }
 }
